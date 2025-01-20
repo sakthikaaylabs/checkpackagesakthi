@@ -1,0 +1,23 @@
+{
+  "name": "checkpackagesakthi",
+  "version": "1.0.0",
+  "description": "This is the package for check npm pulish by sakthu",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sakthikaaylabs/checkpackagesakthi.git"
+  },
+  "keywords": [
+    "sakthi",
+    "test"
+  ],
+  "author": "sakthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakthikaaylabs/checkpackagesakthi/issues"
+  },
+  "homepage": "https://github.com/sakthikaaylabs/checkpackagesakthi#readme"
+}

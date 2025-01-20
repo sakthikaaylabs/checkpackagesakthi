@@ -1,0 +1,26 @@
+pie-factory
+npm creation 
+table
+lookup
+
+steps:
+1. choose a name (unique name)
+2. npm registery (if same package if you plan to use a.diff name, b.scoped package)
+3. install node 
+4. init git repo
+5. init npm
+setup a package.json name version description entry 
+add code for export function
+test local machine before publishing use npm link
+publish npm package
+	have an account in the npm registry
+	npm login (enter username and login)
+	npm publish
+scoped npm package
+	npm init --scope=@your-username
+	npm publish --access public
+
+
+https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/
+https://www.npmjs.com/package/checkpackagesakthi
+npm i checkpackagesakthi
